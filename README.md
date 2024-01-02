@@ -43,7 +43,7 @@ This application serves as a robust centralized surveillance system designed to 
 - Utilizes MQTT for efficient and real-time alert dissemination.
 
 ## Architecture
-![Architecture](images/architecture.jpg)
+![](Images/Architecture.jpg)
 ### Server Infrastructure
 
 - Receives and processes live camera feeds.
